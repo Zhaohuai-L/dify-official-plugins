@@ -28,7 +28,7 @@ resource:
       llm: true
       moderation: false
       rerank: true
-      speech2text: false
+      speech2text: true
       text_embedding: true
       tts: false
     tool:
